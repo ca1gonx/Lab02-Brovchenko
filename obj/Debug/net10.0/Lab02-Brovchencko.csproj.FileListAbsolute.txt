@@ -12,3 +12,4 @@ C:\Users\Student_7\Documents\Lab02-Brovchencko\obj\Debug\net10.0\refint\Lab02-Br
 C:\Users\Student_7\Documents\Lab02-Brovchencko\obj\Debug\net10.0\Lab02-Brovchencko.pdb
 C:\Users\Student_7\Documents\Lab02-Brovchencko\obj\Debug\net10.0\Lab02-Brovchencko.genruntimeconfig.cache
 C:\Users\Student_7\Documents\Lab02-Brovchencko\obj\Debug\net10.0\ref\Lab02-Brovchencko.dll
+C:\Users\Student_7\Documents\Lab02-Brovchencko\obj\Debug\net10.0\Lab02-Brovchencko.sourcelink.json
